@@ -1,0 +1,9 @@
+node_modules
+target
+.vscode
+gen
+.cap**
+mta_archives
+resources
+wdi5.db
+.cdsrc-private.json
