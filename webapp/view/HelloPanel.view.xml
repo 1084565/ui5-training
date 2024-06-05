@@ -23,6 +23,9 @@
       <FormattedText
          htmlText="Hello {/recipient/name}"
          class="sapUiSmallMargin sapThemeHighlight-asColor myCustomText"/>
+      <FormattedText
+         htmlText="Step 17, maybe the most important step!"
+         class="sapUiSmallMargin sapThemeHighlight-asColor myCustomText"/>
       </content>
    </Panel>
 </mvc:View>
