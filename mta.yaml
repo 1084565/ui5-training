@@ -1,0 +1,7 @@
+_schema-version: '3.1'
+ID: com.sap.d044160.ui5training
+version: 1.0.1
+modules:
+   - name: webapp
+     type: nodejs
+     path: ./webapp
