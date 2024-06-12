@@ -5,7 +5,6 @@
     "scripts": {
       "start": "ui5 serve --accept-remote-connections",
       "build": "ui5 build --all --clean-dest"
-  },
     },
     "dependencies": {
         "@ui5/cli": "^3.10.3"
